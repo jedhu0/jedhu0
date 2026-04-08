@@ -30,6 +30,12 @@
 **Blockchain:** Ethereum, BSC, Tron, Solana, BTC, CKB, Solidity, indexers, AMM / launchpad / prediction market systems  
 **AI Tooling:** LangChain, LangGraph, Supabase, Vercel, Cloudflare, Codex, Claude Code
 
+## Writing
+
+I keep a collection of technical notes and long-form articles from earlier work here:
+
+[Blog](https://github.com/jedhu0/blog)
+
 ## Skill Collector
 
 I collect and review useful third-party AI skills, agent workflows, plugins, and prompt systems here:
