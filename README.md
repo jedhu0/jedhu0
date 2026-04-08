@@ -1,7 +1,7 @@
 <h1 align="center">Backend / Full-Stack Engineer</h1>
 
 <p align="center">
-  Backend / full-stack engineer focused on Web3, distributed systems, data infrastructure, and AI-native tooling.
+  Backend / full-stack engineer focused on crypto, distributed systems, data infrastructure, and AI-native tooling.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 - Building backend systems from zero to production, including architecture design, service decomposition, and performance optimization.
 - Designing data-intensive systems for indexing, analytics, ETL, event processing, and user/market behavior analysis.
-- Developing Web3 applications across EVM, Solana, BTC, CKB, and related indexer / smart contract ecosystems.
+- Developing crypto applications across EVM, Solana, BTC, CKB, and related indexer / smart contract ecosystems.
 - Exploring AI-native product workflows with LangChain, LangGraph, Codex, Claude Code, Supabase, Vercel, and Cloudflare.
 - Working across legacy system modernization, microservices, and cloud infrastructure.
 
