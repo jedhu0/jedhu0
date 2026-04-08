@@ -19,7 +19,6 @@
 - Designing data-intensive systems for indexing, analytics, ETL, event processing, and user/market behavior analysis.
 - Developing Web3 applications across EVM, Solana, BTC, CKB, and related indexer / smart contract ecosystems.
 - Exploring AI-native product workflows with LangChain, LangGraph, Codex, Claude Code, Supabase, Vercel, and Cloudflare.
-- Working across legacy system modernization, microservices, cloud infrastructure, and small-team technical leadership.
 
 ## Core Stack
 
